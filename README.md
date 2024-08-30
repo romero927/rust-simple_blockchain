@@ -1,6 +1,8 @@
 # rust-simple_blockchain
 
-Simple example for building a blockchain in Rust. Forked by Kyle Romero from https://github.com/zupzup/rust-blockchain-example. No new code has currently been written; I am using this project to understand Rust, Rust Runner IDE, and Blockchain concepts.
+- Simple example for building a blockchain in Rust.
+- Forked by Kyle Romero from https://github.com/zupzup/rust-blockchain-example.
+- No new code has currently been written; I am using this project to understand Rust, Rust Runner IDE, and Blockchain concepts.
 
 Start using
 
