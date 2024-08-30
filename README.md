@@ -3,6 +3,7 @@
 - Simple example for building a blockchain in Rust.
 - Forked by Kyle Romero from https://github.com/zupzup/rust-blockchain-example.
 - No new code has currently been written; I am using this project to understand Rust, Rust Runner IDE, and Blockchain concepts.
+- Note: I built this on Windows 10, and had to add an environment variable for RUST_LOG=info for the console display to work correctly. I could then start with cargo run.
 
 Start using
 
